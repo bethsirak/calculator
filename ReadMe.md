@@ -45,18 +45,20 @@ What is the next number? 3
 Type 'y' to continue calculating with 8 or type 'n' to start a new calculation 
 
 
+
 ## Main Learnings
 
-During the development of this calculator program, you have learned the following key concepts:
+During the development of this calculator program, I have learned the following key concepts:
 
 - How functions that provide outputs are useful in complex programs.
 - The ability to use the output from one function call as input for the next function call.
 - Reusability of functions in different parts of the code, reducing repetition and improving flexibility.
 
-These learnings showcase your understanding of using functions to modularize code and enhance its efficiency and readability.
+These learnings showcase my understanding of using functions to modularize code and enhance its efficiency and readability.
 
 Feel free to explore the `main.py` and `art.py` files for further details.
 
 Enjoy using the Calculator program!
+
 
 
